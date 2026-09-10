@@ -6,17 +6,18 @@
 
 What is this runbook for?
 
+faire fonctionner ou dépanner l'application déployée.
 
 ## 2. Audience
 
 Who is expected to use it?
-
+Utilisateur qui veut modifier sur l'application
 
 ## 3. Application location
 
-- Repository / project:
-- Deployed application URL:
-- Current expected version:
+- Repository / project: https://github.com/mathishennion/works-on-my-computer
+- Deployed application URL: https://mathishennion.github.io/works-on-my-computer/
+- Current expected version: 1.0.0
 
 ## 4. Normal checks
 
