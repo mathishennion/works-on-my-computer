@@ -26,7 +26,7 @@ You will use it to practise:
 - HTML
 - CSS
 - Vanilla JavaScript
-- GitLab Pages
+- GitHub Pages
 
 There is no Docker, database, framework or build tool to install.
 
@@ -41,7 +41,7 @@ Anything delivered to a browser is visible to the user. Never place passwords, A
 - `public/app.js` — button logic
 - `public/messages.js` — excuses, solutions and panic messages
 - `public/config.js` — harmless visible configuration
-- `.gitlab-ci.yml` — GitLab Pages deployment configuration
+- `.github/workflows/deploy.yml` — GitHub Pages deployment configuration
 
 ## Your documentation templates
 
@@ -60,9 +60,9 @@ Do not invent an ideal procedure after the event. Record what you actually check
 
 Open `public/index.html` in a browser.
 
-## Deploy with GitLab Pages
+## Deploy with GitHub Pages
 
-Use the ENKI GitLab setup guide during class. As you work, complete the documentation templates in `docs/`.
+Use the ENKI GitHub setup guide during class. As you work, complete the documentation templates in `docs/`.
 
 ## Classroom release sequence
 
